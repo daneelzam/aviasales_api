@@ -4,9 +4,9 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "comments": "Users[]"
+    "comments": "User[]"
   },
-  "Users": {
+  "User": {
     "body": "string",
     "post": "Post"
   }
