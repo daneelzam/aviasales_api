@@ -7,7 +7,7 @@
     "comments": "User[]"
   },
   "User": {
-    "body": "string",
-    "post": "Post"
+    "body": "test@mail.ru",
+    "post": "123"
   }
 }
