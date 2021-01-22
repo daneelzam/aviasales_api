@@ -1,5 +1,13 @@
 {
-    "Users": 
-        {"email": "string", "password": "int"}
-    
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Users[]"
+  },
+  "Users": {
+    "body": "string",
+    "post": "Post"
   }
+}
